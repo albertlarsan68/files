@@ -1,8 +1,8 @@
 {
-    "name": "symfony/website-skeleton",
+    "name": "al68/files",
     "type": "project",
     "license": "MIT",
-    "description": "A skeleton to start a new Symfony website",
+    "description": "A simple file managment system",
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.2.5",
@@ -91,7 +91,7 @@
     },
     "extra": {
         "symfony": {
-            "allow-contrib": false,
+            "allow-contrib": true,
             "require": "5.*"
         }
     }
